@@ -1,6 +1,6 @@
 
 body{
-    padding: 80px;
+    padding: 0px;
     
 }
 .MyPortfilo{
@@ -14,6 +14,7 @@ body{
     text-align: center;
     font-size: 25px;
     font-family: fantasy;
+    
     
 
 }
@@ -58,8 +59,8 @@ body{
 }
 
 .prj1, .prj2{
-    margin: 8px;
-    padding: 30px;
+    margin: 5px;
+    padding: 50px;
     font-size: 15px;
     color: springgreen;
 }
