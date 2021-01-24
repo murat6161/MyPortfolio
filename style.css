@@ -22,7 +22,7 @@ body{
    
     width: 300px;
     height: 450px;
-    background-color: cornsilk; overflow-x: ;
+    background-color: cornsilk; /*overflow-x: ;*/
     position: absolute;
     left: 77px;
     bottom: 25%;
