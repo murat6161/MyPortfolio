@@ -2,12 +2,14 @@
 body{
     padding: 0px;
     background-attachment: scroll;
+
     
     
     
     
 }
 .MyPortfilo{
+    
     
     width: 600px;
     height: 600px;
@@ -24,36 +26,10 @@ body{
 
 }
 
-.leftview{
-   
-    width: 300px;
-    height: 450px;
-    background-color: cornsilk; /*overflow-x: ;*/
-    position: absolute;
-    left: 77px;
-    bottom: 25%;
-    display: flex;
-    
-}
-
-.rightview{
-    
-    width: 200px;
-    height: 300px;
-    background-color:lightcyan;
-    position: absolute;
-    left: 77%;
-    bottom: 32%;
-    display: flex;
-    text-align: center;
-}
 
 
 .explanation{   
-    position: absolute;
-    right: 45px;
-    left: 40px;
-    bottom: 0%;
+    
     font-size: 20px;
     font-family: cursive;
     font: bold;
@@ -64,17 +40,19 @@ body{
 }
 
 .prj1, .prj2{
-    margin: 5px;
+    margin: 0px;
     padding: 50px;
     font-size: 15px;
     color: springgreen;
+    top: 20%;
+    bottom: 20%;
 }
 
 .prj1{
     
     position: absolute;
     right: 45%;
-    bottom: 25%;
+    
     
 }
 
@@ -82,7 +60,7 @@ body{
     
     position: absolute;
     left: 45%;
-    bottom: 25%;
+    
     
 }
 
