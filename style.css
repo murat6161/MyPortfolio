@@ -1,9 +1,14 @@
 
 body{
     padding: 0px;
+    background-attachment: scroll;
+    
+    
+    
     
 }
 .MyPortfilo{
+    
     width: 600px;
     height: 600px;
     bottom: 80%;
